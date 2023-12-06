@@ -2,3 +2,7 @@ node_modules/
 dist/
 bot_sessions/
 venom-bot/venom-sessions
+/baileys.log
+/bot.qa.png
+/core.class.log
+/queue.class.log
