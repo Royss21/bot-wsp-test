@@ -19,12 +19,10 @@
         "@whiskeysockets/baileys": "6.5.0",
         "buffer": "^6.0.3",
         "cache-manager": "5.2.4",
-        "venom-bot": "^5.0.21",
         "wa-sticker-formatter": "4.4.4"
     },
     "devDependencies": {
         "@types/node": "^20.10.3",
-        "@types/puppeteer": "^7.0.4",
         "eslint": "^8.52.0",
         "eslint-plugin-bot-whatsapp": "latest",
         "ts-node": "^10.9.1",

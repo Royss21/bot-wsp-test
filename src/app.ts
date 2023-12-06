@@ -7,7 +7,7 @@ import {
   optionsList,
   welcome,
 } from "./flows/index";
-import { createVenomClient } from "./providers/venom.provider";
+// import { createVenomClient } from "./providers/venom.provider";
 
 const BaileysProvider = require("@bot-whatsapp/provider/baileys");
 //const VenomProvider = require("@bot-whatsapp/provider/baileys");
