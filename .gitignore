@@ -3,6 +3,6 @@ dist/
 bot_sessions/
 venom-bot/venom-sessions
 /baileys.log
-/bot.qa.png
+/bot.qr.png
 /core.class.log
 /queue.class.log
