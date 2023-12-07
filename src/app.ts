@@ -10,7 +10,6 @@ import {
 // import { createVenomClient } from "./providers/venom.provider";
 
 const BaileysProvider = require("@bot-whatsapp/provider/baileys");
-//const VenomProvider = require("@bot-whatsapp/provider/baileys");
 const MockAdapter = require("@bot-whatsapp/database/mock");
 
 const flowsPrincipal = [createTicket, historyTickets, optionsList, welcome];
